@@ -33,4 +33,6 @@ Pod::Spec.new do |s|
       ss.ios.vendored_frameworks = 'GroMore_iOS_ks_V4.2.0.3/SDKs/ABUAdKsAdapter_3.3.42.0/ABUAdKsAdapter/ABUAdKsAdapter.framework'
       ss.dependency 'KSAdSDK'
     end
+
+    s.default_subspec = 'ABUSDK'
   end
