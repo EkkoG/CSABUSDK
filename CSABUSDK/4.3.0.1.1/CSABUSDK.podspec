@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name = "CSABUSDK"
-    s.version = "1.0.10"
-    s.summary = "ABUSDK 4.3.0.0."
+    s.version = "4.3.0.1.1"
+    s.summary = "ABUSDK 4.3.0.1"
     s.license = {"type"=>"MIT", "file"=>"LICENSE"}
     s.authors = {"zhangyuwei"=>"zhangyuwei@gomo.com"}
     s.homepage = "https://gitlab.com/gomo_sdk/CSABUAdLoad"
