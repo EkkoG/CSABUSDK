@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "CSABUSDK"
-  s.version = "1.0.9"
+  s.version = "4.1.0.2"
   s.summary = "ABUSDK 4.1.0.2"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"zhangyuwei"=>"zhangyuwei@gomo.com"}
